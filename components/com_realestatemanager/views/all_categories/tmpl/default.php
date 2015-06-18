@@ -49,4 +49,8 @@ $doc->addStyleSheet($mosConfig_live_site . '/components/com_realestatemanager/in
         ?>
     </div>
 </form>
-<div style="text-align: center;"><a style="font-size: 10px;" href="http://ordasoft.com">Powered by OrdaSoft!</a></div>
+<div style="text-align: center;">
+<!--
+<a style="font-size: 10px;" href="http://ordasoft.com">Powered by OrdaSoft!</a>
+-->
+</div>

@@ -412,4 +412,8 @@ if ($is_exist_sub_categories) {
         max-height: <?php echo $realestatemanager_configuration['fotocategory']['high']; ?>px;
     }
 </style>
-<div style="text-align: center;"><a style="font-size: 10px;" href="http://ordasoft.com">Powered by OrdaSoft!</a></div>
+<div style="text-align: center;">
+<!--
+<a style="font-size: 10px;" href="http://ordasoft.com">Powered by OrdaSoft!</a>
+-->
+</div>

@@ -1289,4 +1289,8 @@ if ($params->get('show_reviews')) {
     mosHTML::BackButton($params, $hide_js);
     ?>
 </div>
-<div style="text-align: center;"><a style="font-size: 10px;" href="http://ordasoft.com">Powered by OrdaSoft!</a></div>
+<div style="text-align: center;">
+<!--
+<a style="font-size: 10px;" href="http://ordasoft.com">Powered by OrdaSoft!</a>
+-->
+</div>
