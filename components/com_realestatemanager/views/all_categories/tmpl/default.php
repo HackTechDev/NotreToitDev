@@ -22,7 +22,7 @@ $doc->addStyleSheet($mosConfig_live_site . '/components/com_realestatemanager/in
 <?php echo $currentcat->descrip; ?>
         </td>     
         <td width="120" align="center">
-            <img src="./components/com_realestatemanager/images/rem_logo.png" align="right" alt="Real Estate Manager logo"/>
+            <img src="/images/stories/logo.png" style="width:200px" align="right" alt="Real Estate Manager logo"/>
         </td>
     </tr>
 </table>
@@ -35,7 +35,7 @@ $doc->addStyleSheet($mosConfig_live_site . '/components/com_realestatemanager/in
                 <?php $link = 'index.php?option=com_realestatemanager&amp;task=show_search&amp;catid=' . $catid . '&amp;Itemid=' . $Itemid;
                 ?>
                 <a href="<?php echo sefRelToAbs($link); ?>">
-                    <img align="right" src="./components/com_realestatemanager/images/search.png" alt="Search" border="0" align="left"/><?php echo _REALESTATE_MANAGER_LABEL_SEARCH; ?></a>
+                    <img align="left" src="./components/com_realestatemanager/images/search.png" alt="Search" border="0" align="left"/><?php echo _REALESTATE_MANAGER_LABEL_SEARCH; ?></a>
             </div>
         </div>
         <br />
