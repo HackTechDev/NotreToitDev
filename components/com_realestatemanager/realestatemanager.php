@@ -565,7 +565,7 @@ class PHP_realestatemanager {
             $tagtitle = trim($tagtitle) . " | " . trim($title[$i]);
         }
 
-        $rem = "RealEstate Manager ";
+        $rem = "Projets ";
         //To set Title
         $title_tag = PHP_realestatemanager::mylenStr($rem . $tagtitle, 75);
         //To set meta Description
