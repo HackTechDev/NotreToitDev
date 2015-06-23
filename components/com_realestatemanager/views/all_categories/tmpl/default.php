@@ -22,7 +22,7 @@ $doc->addStyleSheet($mosConfig_live_site . '/components/com_realestatemanager/in
 <?php echo $currentcat->descrip; ?>
         </td>     
         <td width="120" align="center">
-            <img src="/images/stories/logo.png" style="width:200px" align="right" alt="Real Estate Manager logo"/>
+            <img src="/images/stories/logo.png" style="width:200px" align="right" alt="Gestion Immobiliére"/>
         </td>
     </tr>
 </table>
