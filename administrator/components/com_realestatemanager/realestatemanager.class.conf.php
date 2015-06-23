@@ -32,7 +32,7 @@ $realestatemanager_configuration['cb_history']['registrationlevel']='';
 // show Location
 $realestatemanager_configuration['location_tab']['show']='1';
 $realestatemanager_configuration ['location_tab']['registrationlevel']='-2';
-$realestatemanager_configuration['reviews_tab']['show']='1';
+$realestatemanager_configuration['reviews_tab']['show']='0';
 $realestatemanager_configuration['reviews_tab']['registrationlevel']='-2';
 // rent settings
 $realestatemanager_configuration['rentstatus']['show']='1';
@@ -168,11 +168,11 @@ $realestatemanager_configuration['extra8']='0';
 $realestatemanager_configuration['extra9']='0';
 //extra10
 $realestatemanager_configuration['extra10']='0';
-$realestatemanager_configuration['featuredmanager']['placeholder']='Interior, Exterior, Specific';
-$realestatemanager_configuration['currency']='USD=1;EUR=0.89;CAD=1.2;';
+$realestatemanager_configuration['featuredmanager']['placeholder']='Intérieur, Extérieur, Spécifique';
+$realestatemanager_configuration['currency']='EUR=1';
 $realestatemanager_configuration['allowed_exts']='zip,pdf';
 $realestatemanager_configuration['allowed_exts_img']='jpeg,jpg,png,gif';
-$realestatemanager_configuration['price_format']='&nbsp;';
+$realestatemanager_configuration['price_format']=' ';
 // 1 - affter 0 - beffore
 $realestatemanager_configuration['price_unit_show']='1';
 $realestatemanager_configuration['date_format']='%d-%m-%Y';

@@ -1160,7 +1160,7 @@ input[type="text"] {
 }
 #rem_house_property .row_text {
     display: inline-block;
-    width: 230px;
+    width: 300px;
 }
 .rem_exp_date, .rem_house_viewlist span {
     float: right;
