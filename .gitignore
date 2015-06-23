@@ -1,3 +1,4 @@
 configuration.php
 *~
 logs/error.php
+db/*.sql
